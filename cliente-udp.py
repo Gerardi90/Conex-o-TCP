@@ -8,9 +8,6 @@ host = 'localhost'
 
 question =  input("Deseja inserir uma porta manualmente? s/n: ")
 
-#if question =="s":
-#   porta = input("Digite a porta a ser conectada: ")
-#else:
 porta = 5433
 
 mensagem = 'Conectado!'
